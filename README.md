@@ -2,6 +2,8 @@
 
 React + Mapbox example app
 
+Demo: https://nastya2102.github.io/mapbox/
+
 ## Stack Technologies
 
 * React
