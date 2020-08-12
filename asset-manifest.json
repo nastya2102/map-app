@@ -1,13 +1,13 @@
 {
-  "main.css": "/nastya2102/mapbox/static/css/main.94fa9ddf.chunk.css",
-  "main.js": "/nastya2102/mapbox/static/js/main.1d28d8d4.chunk.js",
-  "main.js.map": "/nastya2102/mapbox/static/js/main.1d28d8d4.chunk.js.map",
-  "runtime~main.js": "/nastya2102/mapbox/static/js/runtime~main.5c85d388.js",
-  "runtime~main.js.map": "/nastya2102/mapbox/static/js/runtime~main.5c85d388.js.map",
-  "static/js/2.b4b5dbf4.chunk.js": "/nastya2102/mapbox/static/js/2.b4b5dbf4.chunk.js",
-  "static/js/2.b4b5dbf4.chunk.js.map": "/nastya2102/mapbox/static/js/2.b4b5dbf4.chunk.js.map",
-  "index.html": "/nastya2102/mapbox/index.html",
-  "precache-manifest.90022cf1fe9f85710c40693e05cf4fe1.js": "/nastya2102/mapbox/precache-manifest.90022cf1fe9f85710c40693e05cf4fe1.js",
-  "service-worker.js": "/nastya2102/mapbox/service-worker.js",
-  "static/css/main.94fa9ddf.chunk.css.map": "/nastya2102/mapbox/static/css/main.94fa9ddf.chunk.css.map"
+  "main.css": "/mapbox/static/css/main.94fa9ddf.chunk.css",
+  "main.js": "/mapbox/static/js/main.57072e06.chunk.js",
+  "main.js.map": "/mapbox/static/js/main.57072e06.chunk.js.map",
+  "runtime~main.js": "/mapbox/static/js/runtime~main.2c709b1b.js",
+  "runtime~main.js.map": "/mapbox/static/js/runtime~main.2c709b1b.js.map",
+  "static/js/2.b4b5dbf4.chunk.js": "/mapbox/static/js/2.b4b5dbf4.chunk.js",
+  "static/js/2.b4b5dbf4.chunk.js.map": "/mapbox/static/js/2.b4b5dbf4.chunk.js.map",
+  "index.html": "/mapbox/index.html",
+  "precache-manifest.d7ba5788384ffaaefae90d419bac4098.js": "/mapbox/precache-manifest.d7ba5788384ffaaefae90d419bac4098.js",
+  "service-worker.js": "/mapbox/service-worker.js",
+  "static/css/main.94fa9ddf.chunk.css.map": "/mapbox/static/css/main.94fa9ddf.chunk.css.map"
 }

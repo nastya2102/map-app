@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nastya2102/mapbox/precache-manifest.90022cf1fe9f85710c40693e05cf4fe1.js"
+  "/mapbox/precache-manifest.d7ba5788384ffaaefae90d419bac4098.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/nastya2102/mapbox/index.html", {
+workbox.routing.registerNavigationRoute("/mapbox/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
