@@ -9,8 +9,13 @@ import Routes from './routes';
 
 const layerLocal = localStorage.getItem('layer');
 
+const defaultState = {
+  type: 'FeatureCollection',
+  features: [],
+};
+
 const initialState = {
-  layer: (layerLocal && JSON.parse(layerLocal)) || {},
+  layer: (layerLocal && JSON.parse(layerLocal)) || defaultState,
 };
 
 const store = createStore(reducer, initialState);
