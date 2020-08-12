@@ -11,10 +11,9 @@ React + Mapbox example app
 
 ## First start
 
-1. Copy the contents of `.env.example` into an `.env` file and replace `MAPBOX_ACCESS_TOKEN` with your token.
-2. Install packages using commands `npm i`
-3. Run `npm start` to start app
-4. Open http://localhost:3000 to view app in the browser
+1. Install packages using commands `npm i`
+2. Run `npm start` to start app
+3. Open http://localhost:3000 to view app in the browser
 
 ## Improvements for my app
 
