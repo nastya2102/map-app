@@ -1,4 +1,4 @@
-# Mapbox
+# Map app
 
 React + Mapbox example app
 
